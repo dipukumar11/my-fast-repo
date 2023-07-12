@@ -1,0 +1,42 @@
+*{
+    margin:0px;
+    padding:0px;
+    
+font-family: 'Poppins', sans-serif;
+}
+.head-section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.sell-section{
+    display: flex;
+    justify-content: space-around;
+}
+.sell-title{
+    margin:0px 10px;
+    border-right: 2px solid gray;
+
+
+
+
+}
+.sell-title p{
+    margin-right:10px;
+    font-size:15px;
+}
+.user-icon{
+    font-size: 15px;
+    margin-left: 20px;
+    
+}
+
+.sing-up-section{
+    margin-left: 20px;
+    font-size: 20px;
+    
+}
+.main-head{
+    background-color: #f5f6f8;
+    padding:10px;
+}
